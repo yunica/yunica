@@ -14,7 +14,7 @@ class Profile:
         self.learning = ["React Native", "gdal", "GeoPandas"]
         self.use = ["vscode", "pycharm", "QGis"]
         self.love = "open source"
-        self.theme = "dark mode"
+        self.dark_mode = True
         self.desktop_environment = "KDE"
         self.shell = "Zsh"
 
