@@ -7,7 +7,6 @@ class Profile:
     def __init__(self):
         self.username = "yunica"
         self.name = "Junior flores"
-        self.company = "Development Seed"
         self.role = "Geospatial data engineer"
         self.code = ["Python", "Javascript", "Bash", "java"]
         self.tools = ["React", "Flask", "Django", "NodeJs", "Docker", "AWS"]
